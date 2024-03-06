@@ -1,7 +1,7 @@
 export default function Home(){
   return(
     <div>
-    <h2>this is my home page home</h2>
+    <p>,nf;uioahekjnaekjvbn;iuearhgkj ukjehbqgiuhqeg uhqeriuh qigfu UIRWHFIREHF pwrfiuhW;IFH </p>
     </div>
   )
 }
